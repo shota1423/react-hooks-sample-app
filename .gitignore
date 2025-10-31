@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.vite/
+
+# Caches
+.cache/
+.parcel-cache/
+.eslintcache
+.turbo/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Env files (keep examples)
+.env
+.env.*
+!.env.example
+
+# Coverage
+coverage/
+
+# Editor/IDE
+.idea/
+.history/
+*.swp
+*.swo
+
+# Misc
+bun.lockb
