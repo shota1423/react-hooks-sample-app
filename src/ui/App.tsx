@@ -18,6 +18,7 @@ import { UseSyncExternalStoreDemo } from "../views/UseSyncExternalStoreDemo";
 import { UseInsertionEffectDemo } from "../views/UseInsertionEffectDemo";
 import { UseCustomHookDemo } from "../views/UseCustomHookDemo";
 
+// The main App component that renders all the hook demos inside TestCards
 export function App() {
   return (
     <ThemeProvider>
